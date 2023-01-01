@@ -62,7 +62,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthreddy711&"
         alt="yashwanthreddy711" /></p>
- **🐍 Activity Snake**:
+ 
 
-|![github-contribution-grid-snake](https://github.com/bylickilabs/bylickilabs/blob/bylickilabs/github-contribution-grid-snake.svg)|
-|---|
