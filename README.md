@@ -1,3 +1,4 @@
+<img align = "center" height ="300px" width="100%" src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" alt="">
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding">
