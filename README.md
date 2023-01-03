@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding">
 
-- 🌱 I’m currently learning **JavaScript, Data Structures and Algorithms**
+- 🌱 I’m currently learning **JavaScript,Data Structures and Algorithms**
 
 - 📫 How to reach me **yashwanthreddy7675@gmail.com**
 
