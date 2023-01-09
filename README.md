@@ -68,10 +68,10 @@
 ## 📈 Statistics :-
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthreddy711&theme=tokyonight_duo" alt="Yashwanthreddy711" /></p>
   <br/>
-  <p align="center">
+  <!--<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Yashwanthreddy711's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yashwanthreddy711&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashwanthreddy711&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yashwanthreddy711" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashwanthreddy711&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yashwanthreddy711" height="230px"/>-->
       
   <summary><b>⚡ Recent GitHub Activity</b></summary>
 <a href="https://github.com/Yashwanthreddy711"><img alt="Yashwanthreddy711's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yashwanthreddy711&theme=react-dark" /></a>
