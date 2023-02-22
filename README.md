@@ -57,10 +57,10 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=yashwanthreddy711&label=Profile%20views&color=0e75b6&style=flat"
         alt="yashwanthreddy711" /> </p>
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Yashwanth Reddy"> <img align="left" "
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="Yashwanth Reddy" /></a></p><br><br>
+            alt="Yashwanth Reddy" /></a></p><br><br> -->
 
 
 <!--<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yashwanthreddy711}/count.svg" /></p>-->
@@ -73,8 +73,8 @@
 	    <img alt="Yashwanthreddy711's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yashwanthreddy711&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashwanthreddy711&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yashwanthreddy711" height="230px"/>-->
       
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
 <a href="https://github.com/Yashwanthreddy711"><img alt="Yashwanthreddy711's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yashwanthreddy711&theme=react-dark" /></a>
-<br/>  
+<br/>   -->
 
 
