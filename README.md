@@ -1,6 +1,6 @@
 <img align = "center" height ="300px" width="100%" src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" alt="">
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
