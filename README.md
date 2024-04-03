@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
 <!-- <img align="right" width="400px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding"> -->
 <h3>
-	- 🌱 I’m currently learning  <b>Building Applications Using MERN</b>
+	- 🌱 I’m currently learning  <b>Nextjs and Typescript</b>
 	</h1>
 
 - 📫 How to reach me **yashwanthreddy7675@gmail.com**
